@@ -1,0 +1,10 @@
+node_modules/
+*-lock.*
+
+coverage
+public/js/
+bin/
+dist/
+
+# Lighthouse audit report files
+.lighthouseci/ 
