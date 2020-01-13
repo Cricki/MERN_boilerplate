@@ -1,0 +1,110 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "anikethsaha",
+      "name": "Anix",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26347874?v=4",
+      "profile": "http://anikethsaha.github.io",
+      "contributions": [
+        "infra",
+        "test",
+        "ideas",
+        "maintenance",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "przemwierzbicki",
+      "name": "przemwierzbicki",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47298942?v=4",
+      "profile": "https://github.com/przemwierzbicki",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "anmol5varma",
+      "name": "Anmol Varma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11690393?v=4",
+      "profile": "https://github.com/anmol5varma",
+      "contributions": [
+        "infra",
+        "test"
+      ]
+    },
+    {
+      "login": "lexcorp16",
+      "name": "Fasoro-Joseph Alexander",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14166260?v=4",
+      "profile": "https://github.com/lexcorp16",
+      "contributions": [
+        "infra",
+        "test"
+      ]
+    },
+    {
+      "login": "ypahalajani",
+      "name": "Yash Pahalajani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14838485?v=4",
+      "profile": "https://in.linkedin.com/in/ypahalajani",
+      "contributions": [
+        "infra",
+        "code",
+        "doc",
+        "bug"
+      ]
+    },
+    {
+      "login": "gtdeng",
+      "name": "GT Deng",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10056474?v=4",
+      "profile": "https://github.com/gtdeng",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "wincentrtz",
+      "name": "wincentrtz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33319957?v=4",
+      "profile": "https://github.com/wincentrtz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "elsonlim",
+      "name": "elsonlim",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10349496?v=4",
+      "profile": "https://github.com/elsonlim",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "jeffin143",
+      "name": "jeffin sam",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21286134?v=4",
+      "profile": "http://www.jeffinsam.me",
+      "contributions": [
+        "infra",
+        "bug",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "mern",
+  "projectOwner": "anikethsaha",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
